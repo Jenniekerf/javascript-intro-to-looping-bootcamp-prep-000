@@ -11,7 +11,7 @@ return array
 }
 function whileLoops(n) {
   while (n > 0) {
-    console.log
+    console.log(spy)
   }
 }
   
