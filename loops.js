@@ -9,10 +9,12 @@ function forLoop(array) {
   }
 return array
 }
+
 function whileLoops(n) {
   while (n > 0) {
     console.log(spy)
   }
+  return 'done'
 }
   
     
