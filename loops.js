@@ -9,6 +9,8 @@ function forLoop(array) {
   }
 return array
 }
-
+function whileLoops(100) {
+  while (whileLoops > 0)
+}
   
     
